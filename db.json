@@ -1,0 +1,64 @@
+{
+  "reviews": [
+    {
+      "filter": "retail",
+      "classes": "currys",
+      "imageSrc": "testimonial-currys",
+      "imageAlt": "Screenshot of the Currys LMS",
+      "logoSrc": "currys-white.svg",
+      "logoAlt": "Currys Logo",
+      "headshotSrc": "hs-adamEvans.png",
+      "headshotAlt": "Picture of Adam Evans",
+      "paragraphs": [
+        "Academy Point are the perfect partner for our business and can provide a tailor made learning platform to match the complex needs of our business. It allows our colleagues the freedom to learn at their own pace and build transferrable skills. Providing over 300,000 hours of learning. The level of partnership and collaboration with Academy Point is a real strength, that allows us to meet our ever evolving business needs."
+      ],
+      "contactName": "Adam Evans",
+      "contactRole": "Learning Technology Specialist"
+    },
+    {
+      "filter": "healthcare",
+      "classes": "nhs",
+      "imageSrc": "testimonial-nhs",
+      "imageAlt": "Screenshot of the National Health Sevice LMS",
+      "logoSrc": "nhs-white.svg",
+      "logoAlt": "National Health Sevice Logo",
+      "headshotSrc": "hs-maggieFlanagan.png",
+      "headshotAlt": "Picture of Maggie Flanagan",
+      "paragraphs": [
+        "Within months of launching our portal, training compliance increased by 25%; more importantly, staff feedback was amazingly positive. The team at Academy Point excelled during Covid-19 when they went out of their way to help deliver essential modules at very short notice."
+      ],
+      "contactName": "Maggie Flanagan",
+      "contactRole": "Head of Learning at Chelsea and Westminster NHS Foundation Trust"
+    },
+    {
+      "filter": "retail",
+      "classes": "sonos",
+      "imageSrc": "testimonial-sonos",
+      "imageAlt": "Screenshot of the Sonos LMS",
+      "logoSrc": "sonos-white.svg",
+      "logoAlt": "Sonos Logo",
+      "headshotSrc": "hs-rossBarbour.png",
+      "headshotAlt": "Picture of Maggie Flanagan",
+      "paragraphs": [
+        "We have been working with Academy Point for over five years, and have gone through multiple upgrades. We have found their system unique in that allows us to showcase our brand, as well as hosting our premium eLearning modules, testing our users’ knowledge and providing us with the opportunity to share upcoming events and bonus resources.  We look forward to developing our relationship with Academy Point, and their product."
+      ],
+      "contactName": "Ross Barbour",
+      "contactRole": "Global Product Marketing Manager at Sonos"
+    },
+    {
+      "filter": "cinema",
+      "classes": "cineworld",
+      "imageSrc": "testimonial-cineworld",
+      "imageAlt": "Screenshot of the Cineworld LMS",
+      "logoSrc": "cineworld-white.svg",
+      "logoAlt": "Cineworld Logo",
+      "headshotSrc": "hs-marieBhardwaj.png",
+      "headshotAlt": "Picture of Marie Bhardwaj",
+      "paragraphs": [
+        "From engaging new learners at the pre-boarding stage through to employees progressing through our talent programmes, Academy Point’s LMS has served our needs. 95% of learners say they were either “confident or extremely confident” in their role by the end of the programme."
+      ],
+      "contactName": "Marie Bhardwaj",
+      "contactRole": "Learning and Development Manager at Cineworld"
+    }
+  ]
+}
