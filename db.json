@@ -1,6 +1,7 @@
 {
   "reviews": [
     {
+      "id": 1,
       "filter": "retail",
       "classes": "currys",
       "imageSrc": "testimonial-currys",
@@ -16,6 +17,7 @@
       "contactRole": "Learning Technology Specialist"
     },
     {
+      "id": 2,
       "filter": "healthcare",
       "classes": "nhs",
       "imageSrc": "testimonial-nhs",
@@ -31,6 +33,7 @@
       "contactRole": "Head of Learning at Chelsea and Westminster NHS Foundation Trust"
     },
     {
+      "id": 3,
       "filter": "retail",
       "classes": "sonos",
       "imageSrc": "testimonial-sonos",
@@ -46,6 +49,7 @@
       "contactRole": "Global Product Marketing Manager at Sonos"
     },
     {
+      "id": 4,
       "filter": "cinema",
       "classes": "cineworld",
       "imageSrc": "testimonial-cineworld",
